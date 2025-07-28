@@ -1,7 +1,5 @@
 # 💫 About Me
-Hi! I'm **Athul Jose**, a Computer Science student passionate about **Full-Stack Web Development**, **Data Science**, and **Machine Learning**.  
-I specialize in building scalable web applications using the **MERN stack**, and I'm continuously exploring the power of AI and data-driven solutions.  
-As someone transitioning from a non-tech background, I'm committed to lifelong learning and love collaborating on meaningful tech projects.
+Hi! I'm **Athul Jose**, a Computer Science student specializing in full-stack web development and machine learning. Proficient in Python, the MERN stack, and deploying scalable applications. Currently focused on building data-driven solutions and advancing expertise in artificial intelligence. Open to collaboration and new challenges.
 
 ---
 
